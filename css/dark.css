@@ -19,3 +19,12 @@ body {
 #toolbar {
     display: flex;
 }
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+#box {
+    background-color: rgb(88, 88, 88);
+    text-align: center;
+    width: auto;
+}

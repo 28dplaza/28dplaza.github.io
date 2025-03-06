@@ -1,9 +1,10 @@
 a, a:visited {
-    border: 1px solid black;
+    border: 2px solid black;
     color: #000;
     padding: 4px;
     border-radius: 8px;
     text-decoration: none;
+    background-color: gray;
 }
 a:hover {
     background-color: #00eeff;
@@ -15,4 +16,14 @@ a:hover {
 
 #toolbar {
     display: flex;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    background-color: rgba(41, 101, 190, 0.507);
+}
+#box {
+    background-color: rgba(41, 101, 190, 0.507);
+    text-align: center;
+    width: auto;
 }

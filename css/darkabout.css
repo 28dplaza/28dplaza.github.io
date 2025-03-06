@@ -1,0 +1,39 @@
+#blue { color: blue;
+
+}
+#cyan {color: cyan;
+
+}
+.game {color:green
+
+}
+*{
+font-size:x-large;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.mobile {color: darkgoldenrod;
+
+}
+#position {
+position: absolute;
+top: 8px;
+right: 16px;
+font-size: x-large
+}
+
+body {
+background-color: #464343;
+color: white;
+}
+#music {
+color: red;
+}
+#black {
+color: black;
+}
+#otherposition {
+    position: absolute;
+    top: 12px;
+    right: 55px;
+    font-size: x-large
+    }
